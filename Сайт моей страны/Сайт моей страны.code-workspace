@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../ВАЖНАЯ ПАПКА!/Всё для творчества/Calculator_files"
+		},
+		{
+			"path": "../index.html"
+		},
+		{
+			"path": "index.html2025"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Сайт моей страны"
+	}
+}
